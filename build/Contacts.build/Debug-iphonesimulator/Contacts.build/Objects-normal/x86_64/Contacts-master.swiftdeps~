@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.1.2 (swiftlang-1100.0.278 clang-1100.0.33.9)"
+options: "bbc62aa2778ef36ec0dc11b54b0687ff"
+build_time: [1573021594, 177279000]
+inputs:
+  "/Users/carmelbraga/Desktop/Contacts/Contacts/AppDelegate.swift": [1572909276, 9396242]
+  "/Users/carmelbraga/Desktop/Contacts/Contact+CoreDataProperties.swift": [1572978546, 294337076]
+  "/Users/carmelbraga/Desktop/Contacts/Contacts/SceneDelegate.swift": [1572909276, 21092750]
+  "/Users/carmelbraga/Desktop/Contacts/Contacts/ContactDetailViewController.swift": [1573021593, 296951628]
+  "/Users/carmelbraga/Desktop/Contacts/Contact+CoreDataClass.swift": [1573019510, 846480881]
+  "/Users/carmelbraga/Desktop/Contacts/Contacts/ContactsViewController.swift": [1573019912, 707485201]
